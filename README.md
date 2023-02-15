@@ -1,5 +1,8 @@
-#### Pewlett-Hackard-Analysis
+## Pewlett-Hackard-Analysis
 Using SQL- relational databases, QuickDBD and GitHub.
+This was a research project done for a fictional company named, Pewlett Hackard.
+One major tast was to research about people whom the company employed during the 1980s and 1990s.
+I designed the tables to hold the data from the CSV files, imported the CSV files into a SQL database, and then answer questions about the data. Below is the breakdown.
 
 
 ## Data Modeling
